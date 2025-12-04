@@ -8,11 +8,10 @@ Original file is located at
 """
 
 # ============================================================
-#  PROJETO FINAL — TODAS AS 5 TÉCNICAS
+#  PROJETO VISUALIZACAO DA INFORMACAO — 5 TÉCNICAS
 #  Visualização da Informação
 #  Dataset: precipitation.csv
-#  RGM: 33358761
-#  Gilberto Gamarano Silva
+#  Gilberto Gamarano
 #  Ciência de dados
 # ============================================================
 
